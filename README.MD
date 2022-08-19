@@ -10,4 +10,4 @@ By Raghunandan
 ## What I learned from this Project?
 
 - Learned how to develop webpage using tailwind css
-## This project took around  hours to complete.# shopify
+## This project took around 3 hours to complete.# shopify
