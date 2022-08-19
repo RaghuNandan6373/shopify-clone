@@ -3,7 +3,7 @@
 By Raghunandan
 
 
-## [Link to the shopify](cloneshopify.netlify.app) 
+## [Link to the shopify](https://cloneshopify.netlify.app/) 
 
 ![Completed Website](/assets/completed%20image.jpg)
 
