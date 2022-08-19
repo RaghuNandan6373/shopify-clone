@@ -3,7 +3,7 @@
 By Raghunandan
 
 
-## [Link to the paytm](https://interier-design.netlify.app) 
+## [Link to the shopify](https://interier-design.netlify.app) 
 
 ![Completed Website](/assets/completed%20image.jpg)
 
